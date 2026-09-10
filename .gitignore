@@ -1,0 +1,6 @@
+/parallel_workflow/.env
+/parallel_workflow/.venv
+/sequential_workflow/.env
+/sequential_workflow/.venv
+/iterative_workflow/.env
+/iterative_workflow/.venv
